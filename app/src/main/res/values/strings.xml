@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppHoteles</string>
+    <string name="inscripcion_txt">Inscripcion</string>
+    <string name="fecha_reserva_txt" />
+    <string name="texto_olvidaste_contrasena">¿Olvidaste tu constraseña?</string>
+    <string name="fecha_txt">Fecha de reserva</string>
+    <string name="correo_txt">Correo Electronico</string>
+    <string name="telefono_txt">Telefono</string>
+</resources>
